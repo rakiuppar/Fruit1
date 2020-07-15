@@ -14,15 +14,11 @@ This feature1 branch 1
 5
 
 This feature1 branch 2
-<<<<<<< HEAD
 
 6
-This feature1 branch 3
-=======
 This feature1 branch 3
 feature
 Feature banch code: 1
 Feature banch code: 2
 Feature banch code: 3
 Feature banch code: 4
->>>>>>> 52212ddf7ce3d501a7a523cc43b36cee5cf1e3f4
